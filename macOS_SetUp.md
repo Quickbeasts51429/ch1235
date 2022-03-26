@@ -1,5 +1,5 @@
 # Instructions for macOS SetUp:
-#####   While running Augur on macOS, we strongly recommend updating your shell’s initialization script as follows:
+####  While running Augur on macOS, we strongly recommend updating your shell’s initialization script as follows:
 
 1. Open a terminal:
    -  `nano .bash_profile`
@@ -8,10 +8,10 @@
 
 
 
-##Issue Resolved
+## Issue Resolved
 
 Users faced this issues that in the installation page, it says:
 
-> If you’re running Augur on macOS, we strongly suggest adding the following line to your shell’s initialization script:
+- If you’re running Augur on macOS, we strongly suggest adding the following line to your shell’s initialization script:
 export OBJC_DISABLE_INITIALIZE_FORK_SAFETY=YES 
 
